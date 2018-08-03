@@ -1,11 +1,7 @@
 # Factors-Causing-IBM-Employees-Attrition
----
-title: "CS544 Final"
-author: "Senhao Li"
-output: word_document
----
 
-#I. Data Preparation:
+
+I. Data Preparation:
 
 ##1. Download the original data from Kaggle:https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 ###This is a fictional data created by IBM scientists to explore the factors that cause employees’ attrition, and to provide employers strategies in human resource. 
